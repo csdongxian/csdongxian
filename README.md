@@ -7,7 +7,6 @@ I am a PhD candidate at Tsinghua University, and a researcher dedicated to the t
 - weakly supervised learning, especially noisy labels
 
 📫 Reach me by:
-- wu-dx16@mails.tsinghua.edu.cn (preferred)
 - wudx16@gmail.com
 
 
