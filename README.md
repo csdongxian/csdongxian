@@ -4,7 +4,7 @@ I am an enthusiast for building a trustworthy AI system. I received my PhD degre
 
 🔭 My research mainly focus on:
 - adversarial attacks and defenses
-- data security, especially backdoor attacks
+- data security, especially backdoor attacks and defense
 - weakly supervised learning, especially noisy labels
 
 📫 Reach me by:
