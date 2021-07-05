@@ -1,9 +1,10 @@
 ### Hi there, I am Dongxian WU (吴栋贤 in Chinese) 👋
 
-I am a PhD candidate at Tsinghua University, and a researcher dedicated to the trustworthy AI. Currently, I am co-advised by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=en) and Dr. [Yisen Wang](https://sites.google.com/site/csyisenwang/).
+I am an enthusiast for building a trustworthy AI system. I received my PhD degree in the Department of Computer Science and Technology at Tsinghua University, co-supervised by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=en) and Prof. [Yisen Wang](https://sites.google.com/site/csyisenwang/). I am scheduled to be a Postdoc at the University of Tokyo soon, supervised by Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html).
 
 🔭 My research mainly focus on:
 - adversarial attacks and defenses
+- data security, especially backdoor attacks
 - weakly supervised learning, especially noisy labels
 
 📫 Reach me by:
