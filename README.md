@@ -1,6 +1,6 @@
 ### Hi there, I am Dongxian WU (吴栋贤 in Chinese) 👋
 
-I am an enthusiast for building a trustworthy AI system. I received my PhD degree in the Department of Computer Science and Technology at Tsinghua University, co-supervised by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=en) and Prof. [Yisen Wang](https://sites.google.com/site/csyisenwang/). I am scheduled to be a Postdoc at the University of Tokyo soon, supervised by Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html).
+I am an enthusiast for building a trustworthy AI system. I received my PhD degree in the Department of Computer Science and Technology at Tsinghua University, co-supervised by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=en) and Prof. [Yisen Wang](https://sites.google.com/site/csyisenwang/). Currently, I am a Project Researcher at the University of Tokyo, supervised by Prof. [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/index.html).
 
 🔭 My research mainly focus on:
 - adversarial attacks and defenses
@@ -8,10 +8,13 @@ I am an enthusiast for building a trustworthy AI system. I received my PhD degre
 - weakly supervised learning, especially noisy labels
 
 📫 Reach me by:
+- d.wu@edu.k.u-tokyo.ac.jp
 - wudx16@gmail.com
 
 
 💬 News:
+
+- **Aug 2021**: I join the [Sugiyama-Yokoya-Ishida](http://www.ms.k.u-tokyo.ac.jp/index.html) Lab to be a Project Researcher at the University of Tokyo.
 
 - **Oct 2020**: Our team (Dongxian Wu, Yisen Wang, Yanjie Li, Bin Chen) won the 1st prize in the 2020 [GeekPwn CAAD AI magic mask competition](http://hof.geekpwn.org/zh/index.html). This is an interesting competition where competitors craft adversarial masks to confuse the face recognition system (See [news](https://www.mgtv.com/b/334872/10358357.html?fpa=se&lastp=so_result) on Manguo (Hunan) TV). We will release our codes soon.
 
