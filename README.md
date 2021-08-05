@@ -14,7 +14,9 @@ I am an enthusiast for building a trustworthy AI system. I received my PhD degre
 
 💬 News:
 
-- **Aug 2021**: I join the [Sugiyama-Yokoya-Ishida](http://www.ms.k.u-tokyo.ac.jp/index.html) Lab to be a Project Researcher at the University of Tokyo.
+- **Aug 2021**: I join the [Sugiyama-Yokoya-Ishida](http://www.ms.k.u-tokyo.ac.jp/index.html) Lab to be a Project Researcher at the University of Tokyo 🗻.
+
+- **Jun 2021**: I pass the defense and receive my PhD degree 🎓 in the Department of Computer Science and Technology at Tsinghua University.
 
 - **Oct 2020**: Our team (Dongxian Wu, Yisen Wang, Yanjie Li, Bin Chen) won the 1st prize in the 2020 [GeekPwn CAAD AI magic mask competition](http://hof.geekpwn.org/zh/index.html). This is an interesting competition where competitors craft adversarial masks to confuse the face recognition system (See [news](https://www.mgtv.com/b/334872/10358357.html?fpa=se&lastp=so_result) on Manguo (Hunan) TV). We will release our codes soon.
 
