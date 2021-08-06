@@ -8,7 +8,7 @@ I am an enthusiast for building a trustworthy AI system. I received my PhD degre
 - weakly supervised learning, especially noisy labels
 
 📫 Reach me by:
-- d.wu@edu.k.u-tokyo.ac.jp
+- d.wu@k.u-tokyo.ac.jp
 - wudx16@gmail.com
 
 
