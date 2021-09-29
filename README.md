@@ -13,6 +13,7 @@ I am an enthusiast for building a trustworthy AI system. I received my PhD degre
 
 
 💬 News:
+- **Sep 2021**: Our paper "Adversarial Neuron Pruning Purifies Backdoored Deep Models" (coming soom) has been accepted by NeurIPS 2021.
 
 - **Aug 2021**: I join the [Sugiyama-Yokoya-Ishida](http://www.ms.k.u-tokyo.ac.jp/index.html) Lab to be a Project Researcher at the University of Tokyo 🗻.
 
